@@ -1,6 +1,6 @@
 # Instnt Webhooks Usage Example
 
-For more details refer to Instnt [Developers Documentation](https://support.instnt.org/hc/en-us/articles/360055345112-Integration-Overview)
+For more details refer to [Instnt Developers Documentation](https://support.instnt.org/hc/en-us/articles/360055345112-Integration-Overview)
 
 ## Usage
 
